@@ -1,6 +1,6 @@
 # Gustavo
 
-**`Desenvolvedor Backend`**
+**`Backend Developer`**
 
 Hi, my name is Gustavo, I'm 19 and I'm studying analíse e desenvolvimento de sistemas. I love technology and I'm always looking to learn more..
 
@@ -76,14 +76,14 @@ Hi, my name is Gustavo, I'm 19 and I'm studying analíse e desenvolvimento de si
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=nyxzak&show_icons=true=true&theme=gruvbox" 
+    src="https://github-readme-stats.vercel.app/api?username=nyxzak&show_icons=true=true&theme=synthwave" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxzak&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxzak&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>

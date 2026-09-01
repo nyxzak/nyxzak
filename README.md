@@ -67,8 +67,12 @@ Hi! I'm **Gustavo**, 19 years old, currently studying **Systems Analysis and Dev
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyxzak&show_icons=true&theme=cotton_candy&hide_border=true&title_color=FF8FAB&icon_color=A0E7E5&text_color=5C4B51&bg_color=FFF8F0" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxzak&layout=compact&theme=cotton_candy&hide_border=true&title_color=FF8FAB&text_color=5C4B51&bg_color=FFF8F0" width="34%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nyxzak&show_icons=true&theme=radical&hide_border=true&title_color=B71C1C&icon_color=D4AF37&text_color=FFFFFF&bg_color=0D0D0D" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxzak&theme=radical&hide_border=true&background=0D0D0D&stroke=B71C1C&ring=D4AF37&fire=B71C1C&currStreakLabel=D4AF37" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxzak&layout=compact&theme=radical&hide_border=true&title_color=B71C1C&text_color=FFFFFF&bg_color=0D0D0D" width="50%" />
 </p>
 
 ---

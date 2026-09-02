@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/736x/72/8a/f1/728af1d97f930c6e504e1fb6a53dc002.jpg" width="200" />
 
-# Hey there, I'm Gustavo 🏔️
+# Hey there, I'm Gustavo ※
 
 ### Backend Developer • Java & Spring Boot • CS Student
 

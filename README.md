@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="PASTE_IMAGE_OR_GIF_LINK_HERE" width="200" />
+<img src="https://i.pinimg.com/736x/72/8a/f1/728af1d97f930c6e504e1fb6a53dc002.jpg" width="200" />
 
 # Hey there, I'm Gustavo 🏔️
 
 ### Backend Developer • Java & Spring Boot • CS Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF8FAB&center=true&vCenter=true&width=600&lines=Let's+climb+this+mountain+together!;Learning+Java+%2B+Spring+Boot+every+day;Looking+for+my+first+opportunity+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF8FAB&center=true&vCenter=true&width=600&lines=Learning+Java+%2B+Spring+Boot+every+day;Looking+for+my+first+opportunity+%E2%9C%A8" alt="Typing SVG" />
 
 ![](https://img.shields.io/badge/-Open%20to%20internships-FF8FAB?style=flat-square)
 ![](https://img.shields.io/badge/-19%20years%20old-A0E7E5?style=flat-square)
@@ -79,11 +79,6 @@ Hi! I'm **Gustavo**, 19 years old, currently studying **Systems Analysis and Dev
 
 <div align="center">
 
-### 📫 Let's connect
-
-[![Email](https://img.shields.io/badge/-Email-FFD59E?style=for-the-badge&logo=gmail&logoColor=5C4B51)](mailto:YOUR_EMAIL_HERE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A0E7E5?style=for-the-badge&logo=linkedin&logoColor=5C4B51)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-
-*"One step at a time, and we'll reach the top!" 🌤️*
+*"Live Happily!" 🌤️*
 
 </div>

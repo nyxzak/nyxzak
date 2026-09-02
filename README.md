@@ -15,18 +15,18 @@
 
 ---
 
-### 🌤️ About me
+### About me
 
 Hi! I'm **Gustavo**, 19 years old, currently studying **Systems Analysis and Development**. I started out with **Node.js/JavaScript** and I'm now focused on **Java + Spring Boot**, taking it one step at a time toward my first job as a back-end developer.
 
-- 🎒 Building Java/Spring Boot projects for my portfolio
-- 🌱 Learning Spring Boot, JPA, PostgreSQL, and back-end best practices
-- 🎯 Current goal: landing a back-end development internship
-- 🍡 Outside of code: anime, light novels, visual novels, and manga
+-  Building Java/Spring Boot projects for my portfolio
+-  Learning Spring Boot, JPA, PostgreSQL, and back-end best practices
+-  Current goal: landing a back-end development internship
+-  Outside of code: anime, light novels, visual novels, and manga
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,html,css,postgres,mysql,git,github,vscode,idea" />
@@ -34,28 +34,28 @@ Hi! I'm **Gustavo**, 19 years old, currently studying **Systems Analysis and Dev
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🕰️ TokiSaki</h4>
+      <h4>TokiSaki</h4>
       <p>Java console app (OOP) with a Spring Boot backend and a custom frontend featuring an SVG analog clock. Being expanded into a full REST API with PostgreSQL.</p>
       <a href="https://github.com/nyxzak/TokiSaki">🔗 View repository</a>
     </td>
     <td width="50%">
-      <h4>🤖 MaryBot</h4>
+      <h4>MaryBot</h4>
       <p>My first real project: a Discord bot built with Discord.js v14 and the Jikan API, deployed on Railway. Learned by doing — debugging, modularization, and deployment.</p>
       <a href="https://github.com/nyxzak/MaryBot_discord">🔗 View repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>📺 Anime Recommendation Engine</h4>
+      <h4>Anime Recommendation Engine</h4>
       <p>Java/Spring Boot project: a recommendation engine for anime tailored to Japanese learners, filtering content by JLPT level.</p>
     </td>
     <td width="50%">
-      <h4>💻 Freelance Landing Pages</h4>
+      <h4>Freelance Landing Pages</h4>
       <p>Plain HTML/CSS/JS pages for small local businesses, deployed via Vercel/Netlify.</p>
     </td>
   </tr>
@@ -63,7 +63,7 @@ Hi! I'm **Gustavo**, 19 years old, currently studying **Systems Analysis and Dev
 
 ---
 
-### 📊 Stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nyxzak&show_icons=true&theme=radical&hide_border=true&title_color=B71C1C&icon_color=D4AF37&text_color=FFFFFF&bg_color=0D0D0D" width="48%" />

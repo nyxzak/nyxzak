@@ -10,7 +10,6 @@
 
 ![](https://img.shields.io/badge/-Open%20to%20internships-FF8FAB?style=flat-square)
 ![](https://img.shields.io/badge/-19%20years%20old-A0E7E5?style=flat-square)
-![](https://img.shields.io/badge/-An%C3%A1polis%2C%20Brazil-FFD59E?style=flat-square)
 
 </div>
 
